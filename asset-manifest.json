@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/email2/static/css/main.073c9b0a.css",
+    "main.js": "/email2/static/js/main.3aa711e7.js",
+    "static/js/787.46e08921.chunk.js": "/email2/static/js/787.46e08921.chunk.js",
+    "static/media/logo.svg": "/email2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/email2/index.html",
+    "main.073c9b0a.css.map": "/email2/static/css/main.073c9b0a.css.map",
+    "main.3aa711e7.js.map": "/email2/static/js/main.3aa711e7.js.map",
+    "787.46e08921.chunk.js.map": "/email2/static/js/787.46e08921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3aa711e7.js"
+  ]
+}
